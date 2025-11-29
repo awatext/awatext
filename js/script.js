@@ -10,6 +10,7 @@ const data = [
     {title:'阿瓦兰剪贴板',url:'https://clip.awaland.dpdns.org',desc:'在线剪贴板',tags:['工具']},
   ]},
   { group: '其他项目', items: [
+    {title:'HRF日期解码器',url:'https://hrf.awaland.dpdns.org',desc:'阿斯顿法国皇家快乐！',tags:['历史']},
     {title:'给DPG的留言',url:'https://dpg.awaland.dpdns.org',desc:'如题',tags:['历史']},
     {title:'HC客户端',url:'https://hc.awaland.dpdns.org',desc:'部署hc++源码',tags:['工具']},
   ]}
