@@ -16,6 +16,7 @@ const data = [
   { group: '其他项目', items: [
     {title:'HRF日期解码器',url:'https://hrf.awaland.dpdns.org',desc:'阿斯顿法国皇家快乐！',tags:['工具']},
     {title:'给DPG的留言',url:'https://dpg.awaland.dpdns.org',desc:'如题',tags:['历史']},
+    {title:'BBcoin',url:'https://bcoin.awaland.dpdns.org',desc:'即将接入BBot的货币系统',tags:['HC']},
   ]}
 ];
 
